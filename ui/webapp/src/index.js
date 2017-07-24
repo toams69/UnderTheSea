@@ -14,7 +14,7 @@ const config = {
   renderer: Phaser.AUTO,
   parent: '',
   transparent: false,
-  antialias: true,
+  antialias: false,
   physicsConfig: { arcade: true },
 };
 
