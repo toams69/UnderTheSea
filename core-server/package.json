@@ -1,0 +1,24 @@
+{
+  "name": "under-the-sea-core-server",
+  "version": "1.0.0",
+  "description": "Simple 2D HTML Game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toams69/UnderTheSea.git"
+  },
+  "author": {
+    "name": "Thomas Pariaud",
+    "email": "tpariaud@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "bugs": {},
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
