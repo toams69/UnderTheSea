@@ -2,7 +2,7 @@
 
 "dying1.png":
 {
-	"frame": {"x":0,"y":0,"w":69,"h":89},
+	"frame": {"x":5,"y":5,"w":69,"h":89},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":89},
@@ -10,7 +10,7 @@
 },
 "dying2.png":
 {
-	"frame": {"x":69,"y":0,"w":74,"h":88},
+	"frame": {"x":87,"y":5,"w":74,"h":88},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":88},
@@ -18,7 +18,7 @@
 },
 "dying3.png":
 {
-	"frame": {"x":143,"y":0,"w":91,"h":59},
+	"frame": {"x":174,"y":5,"w":91,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":59},
@@ -26,7 +26,7 @@
 },
 "dying4.png":
 {
-	"frame": {"x":234,"y":0,"w":71,"h":77},
+	"frame": {"x":278,"y":5,"w":71,"h":77},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":77},
@@ -34,7 +34,7 @@
 },
 "dying5.png":
 {
-	"frame": {"x":305,"y":0,"w":83,"h":49},
+	"frame": {"x":362,"y":5,"w":83,"h":49},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":49},
@@ -42,7 +42,7 @@
 },
 "dying6.png":
 {
-	"frame": {"x":0,"y":89,"w":62,"h":86},
+	"frame": {"x":5,"y":107,"w":62,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":86},
@@ -50,7 +50,7 @@
 },
 "floating to swimming1.png":
 {
-	"frame": {"x":62,"y":89,"w":78,"h":91},
+	"frame": {"x":80,"y":107,"w":78,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":91},
@@ -58,7 +58,7 @@
 },
 "floating to swimming2.png":
 {
-	"frame": {"x":140,"y":89,"w":89,"h":62},
+	"frame": {"x":171,"y":107,"w":89,"h":62},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":62},
@@ -66,7 +66,7 @@
 },
 "floating1.png":
 {
-	"frame": {"x":229,"y":89,"w":53,"h":98},
+	"frame": {"x":273,"y":107,"w":53,"h":98},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":98},
@@ -74,7 +74,7 @@
 },
 "floating2.png":
 {
-	"frame": {"x":282,"y":89,"w":56,"h":98},
+	"frame": {"x":339,"y":107,"w":56,"h":98},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":98},
@@ -82,7 +82,7 @@
 },
 "floating3.png":
 {
-	"frame": {"x":338,"y":89,"w":47,"h":99},
+	"frame": {"x":408,"y":107,"w":47,"h":99},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":99},
@@ -90,7 +90,7 @@
 },
 "floating4.png":
 {
-	"frame": {"x":385,"y":89,"w":47,"h":96},
+	"frame": {"x":5,"y":219,"w":47,"h":96},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":96},
@@ -98,7 +98,7 @@
 },
 "floating5.png":
 {
-	"frame": {"x":0,"y":188,"w":50,"h":94},
+	"frame": {"x":65,"y":219,"w":50,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":94},
@@ -106,7 +106,7 @@
 },
 "getting hurt1.png":
 {
-	"frame": {"x":50,"y":188,"w":96,"h":56},
+	"frame": {"x":128,"y":219,"w":96,"h":56},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":56},
@@ -114,7 +114,7 @@
 },
 "getting hurt2.png":
 {
-	"frame": {"x":146,"y":188,"w":98,"h":59},
+	"frame": {"x":237,"y":219,"w":98,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":59},
@@ -122,7 +122,7 @@
 },
 "getting hurt3.png":
 {
-	"frame": {"x":244,"y":188,"w":96,"h":38},
+	"frame": {"x":348,"y":219,"w":96,"h":38},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":38},
@@ -130,7 +130,7 @@
 },
 "getting hurt4.png":
 {
-	"frame": {"x":340,"y":188,"w":98,"h":47},
+	"frame": {"x":5,"y":328,"w":98,"h":47},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":47},
@@ -138,7 +138,7 @@
 },
 "getting hurt5.png":
 {
-	"frame": {"x":0,"y":282,"w":92,"h":52},
+	"frame": {"x":116,"y":328,"w":92,"h":52},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":52},
@@ -146,7 +146,7 @@
 },
 "swimming to floating1.png":
 {
-	"frame": {"x":92,"y":282,"w":89,"h":62},
+	"frame": {"x":221,"y":328,"w":89,"h":62},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":62},
@@ -154,7 +154,7 @@
 },
 "swimming to floating2.png":
 {
-	"frame": {"x":181,"y":282,"w":78,"h":91},
+	"frame": {"x":323,"y":328,"w":78,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":91},
@@ -162,7 +162,7 @@
 },
 "swimming1.png":
 {
-	"frame": {"x":259,"y":282,"w":95,"h":54},
+	"frame": {"x":414,"y":328,"w":95,"h":54},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":54},
@@ -170,7 +170,7 @@
 },
 "swimming2.png":
 {
-	"frame": {"x":0,"y":373,"w":97,"h":58},
+	"frame": {"x":5,"y":432,"w":97,"h":58},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":58},
@@ -178,7 +178,7 @@
 },
 "swimming3.png":
 {
-	"frame": {"x":97,"y":373,"w":95,"h":42},
+	"frame": {"x":115,"y":432,"w":95,"h":42},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":42},
@@ -186,7 +186,7 @@
 },
 "swimming4.png":
 {
-	"frame": {"x":192,"y":373,"w":95,"h":45},
+	"frame": {"x":223,"y":432,"w":95,"h":45},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":45},
@@ -194,7 +194,7 @@
 },
 "swimming5.png":
 {
-	"frame": {"x":287,"y":373,"w":86,"h":50},
+	"frame": {"x":331,"y":432,"w":86,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":50},
@@ -205,8 +205,8 @@
 	"version": "1.0",
 	"image": "sprite.png",
 	"format": "RGBA8888",
-	"size": {"w":438,"h":438},
+	"size": {"w":514,"h":514},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:a43ec6dfa170dfdd9e2d43401899bf99:cf615186028de623facdf969dcedf2b9:68d88b3cf7eafc9b5accfffdfb2fda91$"
+	"smartupdate": "$TexturePacker:SmartUpdate:74d135b094210de81b1a635e3303c383:cf615186028de623facdf969dcedf2b9:68d88b3cf7eafc9b5accfffdfb2fda91$"
 }
 }
