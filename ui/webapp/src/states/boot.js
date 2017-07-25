@@ -18,6 +18,7 @@ Boot.prototype = {
 
     loadAssets: function(){
         this.load.atlasJSONArray('sprite', 'assets/img/sprite.png', 'assets/sprite.json');
+        this.load.image("wave", "assets/img/background/header_wave.jpg");
     },
 
     showLoadingText: function(){
