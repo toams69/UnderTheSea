@@ -18,6 +18,16 @@ DiverSprite.prototype.setupAnimations = function() {
         "swimming5.png"
     ], 60, false);
 
+    this.animations.add('prepareMovement', [
+        "floatingToSwimming1.png",
+        "floatingToSwimming2.png"
+    ], 60, true);
+
+    this.animations.add('endMovement', [
+        "swimmingToFloating1.png",
+        "swimmingToFloating2.png"
+    ], 60, true);
+
     this.animations.add('floating', [
         "floating1.png",
         "floating2.png",
@@ -39,6 +49,14 @@ DiverSprite.prototype.floating = function(){
 
 DiverSprite.prototype.stopAnimation = function(){
     this.animations.stop();
+};
+
+DiverSprite.prototype.prepareMovement = function(){
+    this.animations.play("prepareMovement", 6, false);
+};
+
+DiverSprite.prototype.endMovement = function(){
+    this.animations.play("endMovement", 6, false);
 };
 
 export default DiverSprite;
