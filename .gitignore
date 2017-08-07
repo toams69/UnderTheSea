@@ -60,3 +60,5 @@ typings/
 #data
 data/
 scripts/*/src/1m
+scripts/**/*.asc
+scripts/**/*.xyz
