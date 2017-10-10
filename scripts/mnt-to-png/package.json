@@ -1,0 +1,11 @@
+{
+  "name": "mnt-to-png",
+  "version": "1.0.0",
+  "description": "script to transform mnt to png",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
